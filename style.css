@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+    background: url("./image.jpg") no-repeat center;
+  background-size: cover;
+  opacity: 1;
+  filter: brightness(100%)
+}
+
